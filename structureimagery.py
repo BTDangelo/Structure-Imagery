@@ -1,5 +1,7 @@
 from os import path
+#also have seen import os.path but this way is faster
 from datetime import datetime
+#facilitates calculation of the amount of time taken for the 
 import arcpy
 
 
